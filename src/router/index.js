@@ -7,11 +7,11 @@ import Registro from '../views/Registro.vue'
 import NuevoServicio from '../views/NuevoServicio.vue'
 
 const routes = [
-  {
-    path: '/',
-    name: 'home',
-    component: Home
-  },
+  // {
+  //   path: '/',
+  //   name: 'home',
+  //   component: Home
+  // },
   {
     path: '/crearServicio',
     name: 'crearServicio',
